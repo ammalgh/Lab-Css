@@ -1,0 +1,16 @@
+*{
+    background-color: aquamarine;
+}
+h1,
+h2,
+h3 ,
+p {
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+.add{
+    font-style: italic;
+}
